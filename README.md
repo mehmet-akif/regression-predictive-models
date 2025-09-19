@@ -14,8 +14,6 @@ The work was completed as part of a **Machine Learning course assignment** and s
 - [Methodology](#methodology)
 - [Results](#results)
 - [Technologies Used](#technologies-used)
-- [Usage](#usage)
-- [Files Included](#files-included)
 
 ---
 
@@ -105,11 +103,5 @@ The assignment was divided into three main tasks:
   - Matplotlib  
   - Scikit-learn  
 
----
 
-## Usage
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/<your-username>/regression-assignment.git
 
